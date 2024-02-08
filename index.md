@@ -3,7 +3,7 @@
 ``` javascript
 var myVar = "Hello, world!";
 ```
-- [x] Do you enjoy pain
+- [ ] Do you enjoy pain
 - [x] Have you suffered recently
 - [x] Are you insane
 - [x] Are you okay
